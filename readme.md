@@ -20,7 +20,7 @@ I'm in a Data Science and Artificial intelligence program.
 <img align="left" width="36px" src="https://user-images.githubusercontent.com/57855070/98332831-1dfed800-2008-11eb-85dc-9925b457b3d4.png"/>
 <img align="left" width="36px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9a/Visual_Studio_Code_1.35_icon.svg/1024px-Visual_Studio_Code_1.35_icon.svg.png"/>
 <br />
-
+<br />
 <img align="left" width="52px" src="https://user-images.githubusercontent.com/57855070/98332575-94e7a100-2007-11eb-9c2b-81ad2d1d04f1.png"/>
 <img align="left" width="52px" src="https://user-images.githubusercontent.com/57855070/98332622-ad57bb80-2007-11eb-8ecb-9bd68aefeef6.png"/> 
 <img align="left" width="52px" src="https://banner2.cleanpng.com/20181109/eel/kisspng-anaconda-pip-installation-python-1713924909372.webp"/> 
