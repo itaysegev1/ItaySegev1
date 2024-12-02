@@ -1,8 +1,8 @@
 ## Hi, I'm Itay Segev <img width="58px" alt="_קובץ מאת itaySegev1" src=https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif>
 
-I'm currently a student for software developer at Ariel University 🖥️ <br />
-I love learning new technologies, and deepening my knowledge of technologies I already know 🤓<br />
-I'm in a Data Science and Artificial intelligence program.
+I'm currently a student for Computer Science at Ariel University 🖥️ <br />
+I specialize in Data Science and Artificial Intelligence 🤖<br />
+I’m passionate about learning new technologies and expanding my knowledge of existing ones 🤓 <br />
 <br />
 #### Programming Languages 🚀
 
@@ -20,6 +20,7 @@ I'm in a Data Science and Artificial intelligence program.
 <img align="left" width="36px" src="https://user-images.githubusercontent.com/57855070/98332831-1dfed800-2008-11eb-85dc-9925b457b3d4.png"/>
 <img align="left" width="36px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9a/Visual_Studio_Code_1.35_icon.svg/1024px-Visual_Studio_Code_1.35_icon.svg.png"/>
 <br />
+
 <br />
 <img align="left" width="52px" src="https://user-images.githubusercontent.com/57855070/98332575-94e7a100-2007-11eb-9c2b-81ad2d1d04f1.png"/>
 <img align="left" width="52px" src="https://user-images.githubusercontent.com/57855070/98332622-ad57bb80-2007-11eb-8ecb-9bd68aefeef6.png"/> 
@@ -43,5 +44,3 @@ I'm in a Data Science and Artificial intelligence program.
 [<img align="left" width="48px" src="https://user-images.githubusercontent.com/57855070/98333031-8fd72180-2008-11eb-96ce-cc86e185889c.png"/>][linkedin]
 
 [linkedin]: https://www.linkedin.com/in/itaysegev1/
-
-
