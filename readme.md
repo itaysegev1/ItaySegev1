@@ -2,7 +2,7 @@
 
 I'm currently a student for Computer Science at Ariel University 🖥️ <br />
 I specialize in Data Science and Artificial Intelligence 🤖<br />
-I’m passionate about learning new technologies and expanding my knowledge of existing ones 🤓 <br />
+I’m passionate about learning new technologies and expanding my knowledge of existing ones 🤓
 <br />
 #### Programming Languages 🚀
 
