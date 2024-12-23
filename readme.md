@@ -38,6 +38,10 @@ I’m passionate about learning new technologies and expanding my knowledge of e
 
  <br />
  <br />
+
+ #### GitHub status!
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=itaysegev1&show_icons=true&theme=radical)
+
  
 #### Connect with me 📫
 
