@@ -1,8 +1,5 @@
 # Hi there, I'm Itay Segev! 👋
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/itaysegev1/)
-[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:itaysegev1234@gmail.com)
-
 ## About Me 🎓
 
 I'm a Computer Science student at Ariel University, specializing in Data Science and Artificial Intelligence. My passion lies in exploring new technologies and deepening my understanding of existing ones. I'm constantly seeking opportunities to grow and innovate in the tech world.
@@ -48,12 +45,10 @@ I'm a Computer Science student at Ariel University, specializing in Data Science
 - Learning cloud technologies
 - Contributing to open-source projects
 
-## 📫 Let's Connect!
+## Connect with me 📫
 
-Feel free to reach out to me for collaborations or just a chat about technology!
-
-- 💼 [LinkedIn](https://www.linkedin.com/in/itaysegev1/)
-- 📧 [Email](mailto:itaysegev1234@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/itaysegev1/)
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:itaysegev1234@gmail.com)
 
 ---
 <div align="center">
